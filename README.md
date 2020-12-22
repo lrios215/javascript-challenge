@@ -20,7 +20,7 @@ The planet Earth needs to know what we have found!
 
 ### Level 2: Looking for a more detailed search?  Multiple Search Categories
 
-* Level 2 has all the features of level 2 but uses multiple 'input' tags that allows the user to create a more detailed search using multiple filters based on the following table columns:
+* Level 2 search has all the features of level 1 but uses multiple 'input' tags that allows the user to create a more detailed search using multiple filters based on the following table columns:
   1. `date/time`
   2. `city`
   3. `state`
