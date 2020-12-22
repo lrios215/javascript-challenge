@@ -33,6 +33,6 @@ The planet Earth needs to know what we have found!
 
 ### Dataset:
 
-* [UFO Sightings Data](StarterCode/static/js/data.js)
+* [UFO Sightings Data](UFO_level_1/StarterCode/static/js/data.js)
 
 - - -
