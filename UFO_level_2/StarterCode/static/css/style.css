@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: Ubuntu, sans-serif;
+  font-family: Monospace, Lucida Console;
 }
 
 html,
@@ -13,8 +13,8 @@ body {
 /* The wrapper contains all of the page's content besides the footer, which is pushed to the bottom of the page */
 .wrapper {
   position: relative;
-  min-height: 100%;
-  padding-bottom: 130px;
+  min-height: 120%;
+  padding-bottom: 150px;
   overflow: auto;
 }
 
@@ -98,7 +98,7 @@ select {
   padding: 20px;
   margin: 0;
   background: black;
-  background-image: url("../images/nasa.jpg");
+  background-image: url("../images/milky_way.jpg");
   background-attachment: fixed;
   background-position: bottom center;
   background-size: cover;
