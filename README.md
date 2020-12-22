@@ -2,57 +2,36 @@
 
 # JavaScript Homework - JavaScript and DOM Manipulation
 
-## Background
+## ALIENS-R-REAL Searchable Dataset
 
-WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
+The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All of our sightings now available online for the world to see and then the matter will finally be put to rest.
 
-There is just one tiny problem though... our collection is too large to search through manually. Even our most dedicated followers are complaining that they are having trouble locating specific reports in this mess.
+A dynamic table has been created using the dataset from: (StarterCode/static/js/data.js). Users can filter the table data for specific values (seee level 1 and level 2 directions below). Web pages designed with trusted coding languages: JavaScript, HTML, and CSS, and D3.js.
 
-That's why we are hiring you. We need you to write code that will create a table dynamically based upon a [dataset we provide](StarterCode/static/js/data.js). We also need to allow our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
+The planet Earth needs to know what we have found!
 
-You can handle this... right? The planet Earth needs to know what we have found!
+### Level 1: Date Search Only
 
-## Your Task
+* This basic HTML web page allows the user to search for a specific sighting from 1/1/2010 to 1/13/2010
 
-### Before You Begin
+* The UFO dataset provided is in the form of an array of JavaScript objects, the code appends a table the web page and then adds new rows of data for each UFO sighting.  JavaScript code listens for the event and searches through date/time in our dataset and appends to the table. You can build your own table based on selected date sightings!
 
-1. Create a new repository for this project called `javascript-challenge`. **Do not add this homework to an existing repository**.
+* The resulting rows will contain: `date/time`, `city`, `state`, `country`, `shape`, and `comment` for each sighting that matches the date searched.
 
-2. Clone the new repository to your computer.
+### Level 2: Looking for a more detailed search?  Multiple Search Categories
 
-3. Inside your local git repository, create a directory for the Javascript challenge. Use the folder names to correspond to the challenges: **UFO-level-1** and **UFO-level-2**.
-
-4. Add your **html** files to this folder as well as your static folder containing your javascript. This will be the main script to run for analysis.
-
-5. Push the above changes to GitHub or GitLab.
-
-6. Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-
-### Level 1: Automatic Table and Date Search (Required)
-
-* Create a basic HTML web page or use the [index.html](StarterCode/index.html) file provided (we recommend building your own custom page!).
-
-* Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
-
-  * Make sure you have a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
-
-* Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
-
-### Level 2: Multiple Search Categories (Optional)
-
-* Complete all of Level 1 criteria.
-
-* Using multiple `input` tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
-
+* Level 2 has all the features of level 2 but uses multiple 'input' tags that allows the user to create a more detailed search using multiple filters based on the following table columns:
   1. `date/time`
   2. `city`
   3. `state`
   4. `country`
   5. `shape`
 
+* Note: Reload the page in order to reset the table and start again.  If nothing comes up then try to reduce the number of filters used, for example start with state only and then add other filters to narrow it down. 
+
 - - -
 
-### Dataset
+### Dataset:
 
 * [UFO Sightings Data](StarterCode/static/js/data.js)
 
