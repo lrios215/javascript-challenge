@@ -2,7 +2,7 @@
 
 # ALIENS-R-REAL Searchable UFO Sightings DataSet
 
-![UFOs](UFO_level_1/StarterCode/static/images/UFO_2400.jpg) 
+![UFOs](UFO_2400.jpg)Source: https://www.military.com/daily-news/2019/09/18/ufo-videos-are-footage-real-unidentified-objects-us-navy-acknowledges.html 
 
 The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All of our sightings now available online for the world to see and then the matter will finally be put to rest.
 
