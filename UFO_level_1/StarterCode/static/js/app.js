@@ -45,12 +45,6 @@ function runEnter() {
     
     console.log(filteredData);
 
-    //select table element by class name
-    //var table = d3.select(".table table-striped");
-
-    //append searched data into the table
-    //table.append("td").text(value)
-
     //append searched data into the table
     filteredData.forEach((report) => {
         var row = tbody.append('tr');
