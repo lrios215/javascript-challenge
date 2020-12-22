@@ -1,8 +1,8 @@
-# javascript-challenge
+# JavaScript Challenge - JavaScript and DOM Manipulation
 
-# JavaScript Homework - JavaScript and DOM Manipulation
+# ALIENS-R-REAL Searchable UFO Sightings DataSet
 
-## ALIENS-R-REAL Searchable Dataset
+![UFOs](UFO_level_1/StarterCode/static/images/UFO_2400.jpg) 
 
 The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All of our sightings now available online for the world to see and then the matter will finally be put to rest.
 
