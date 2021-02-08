@@ -1,6 +1,8 @@
 # JavaScript Challenge - JavaScript and DOM Manipulation
 
-# [ALIENS-R-REAL Searchable UFO Sightings DataSet, Click to Access](https://lrios215.github.io/javascript-challenge/UFO_level_1/StarterCode/index.html)
+# ALIENS-R-REAL Searchable UFO Sightings DataSet 
+[Click to Access: Level 1](https://lrios215.github.io/javascript-challenge/UFO_level_1/StarterCode/index.html)
+[Click to Access: Level 2](https://lrios215.github.io/javascript-challenge/UFO_level_2/StarterCode/index.html)
 
 ![UFO](image/ufo_2400.png)Source: https://www.military.com/daily-news/2019/09/18/ufo-videos-are-footage-real-unidentified-objects-us-navy-acknowledges.html 
 
